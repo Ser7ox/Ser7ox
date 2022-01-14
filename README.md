@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ser7ox
 - 👀 I’m interested in Football, Programming language
-- 🌱 I’m currently learning Angular
+- 🌱 I’m currently learning Angular, TS, JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... can't reach me
 
